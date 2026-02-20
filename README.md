@@ -44,7 +44,7 @@ Project Workflow
    Discount vs Profit Impact
    
    Page 3 — Operations & Logistics 
-    Shipping Mode Performance
+    Shipping Mode Performance\n
     Average Shipping Days
     Order Priority Analysis
     Shipping Cost Impact
