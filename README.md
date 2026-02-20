@@ -2,6 +2,7 @@
 ![Excel](https://img.shields.io/badge/Tool-Excel-green)
 ![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow)
 ![Project Type](https://img.shields.io/badge/Type-Business%20Intelligence-blue)
+
 This project presents an end-to-end sales performance analysis of a global retail store dataset using Microsoft Excel for data preparation and Power BI for interactive dashboard development.
 The objective was to simulate a real-world business intelligence workflow — from raw data cleaning to executive-level dashboard reporting.
 Project Workflow
